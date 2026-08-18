@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data analysis projects, open datasets, and dashboard builds<br>Advanced machine learning and predictive modeling techniques<br>Google Data Analytics (Coursera), advanced SQL window functions, and Python statsmodels<br>Data cleaning pipelines, Power BI dashboards, Discord automation with Python, or FC market analysis<br>I built a Python bot that tracked 141,350 EGP in revenue across 3,500 Discord members — completely automated
+Data analysis projects, open datasets, and dashboard builds<br>Advanced machine learning and predictive modeling techniques<br>Google Data Analytics (Coursera), advanced SQL window functions, and Python statsmodels<br>Data cleaning pipelines, Power BI dashboards, Discord automation with Python, or FC market analysis<br>I built a Python bot that tracked revenue across 3,500 Discord members — completely automated
 
 
 ## 🌐 Socials:
